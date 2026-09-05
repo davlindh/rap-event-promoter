@@ -1,0 +1,12 @@
+version: 1
+repository: davlindh/rap-event-promoter
+purpose: Event promotion and audience engagement experiment.
+status: vertical-experiment
+canonical_parent: null
+capabilities: [events, promotion, audience-engagement]
+vertical: events-culture
+omniframez_role: vertical-experiment
+evidence: {confidence: inferred, sources: [repository-name]}
+harvest_action: inspect-and-harvest-unique-capabilities
+relations:
+  - contributes_to: event and cultural experience capabilities
